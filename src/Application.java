@@ -3,5 +3,7 @@ public class Application {
 
         System.out.println("Hello word!");
         System.out.println("Hello word!");
+        System.out.println("Hello word!");
+
     }
 }
